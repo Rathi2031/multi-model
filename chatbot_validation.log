@@ -1,0 +1,5 @@
+2025-03-21 11:55:00,996 - ERROR - Error invoking GPT-4: Error code: 429 - {'error': {'message': 'Request too large for gpt-4-turbo-preview in organization org-v7OIYYu8OBlXv4DRX1ejAMCo on tokens per min (TPM): Limit 30000, Requested 32184. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+2025-03-21 12:19:41,418 - ERROR - Error invoking GPT-4: 'score'
+2025-03-21 12:24:06,230 - ERROR - Error invoking GPT-4: 'text'
+2025-03-21 12:26:32,537 - ERROR - Error invoking GPT-4: 'str' object has no attribute 'page_content'
+2025-03-21 12:26:44,313 - ERROR - Error invoking GPT-4: 'str' object has no attribute 'page_content'
